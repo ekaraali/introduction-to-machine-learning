@@ -2,7 +2,7 @@
   <img src="logo.png">
 </div>
 
-# Welcome to our Introduction to Machine Learning Course Repo!
+# Welcome to Introduction to Machine Learning Course Repo!
 
 You can find more information about our Introduction to Machine Learning Course by visiting [Course Website.](https://globalaihub.com/introduction-to-machine-learning/)
 
