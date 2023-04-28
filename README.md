@@ -28,6 +28,3 @@ To enroll our courses, you can find the next course that fit your schedule by vi
 ### Lesson 5
 - [Unsupervised Learning](https://github.com/globalaihub/introduction-to-machine-learning/tree/main/Unsupervised%20Learning)
 
-
-## Certification Example
-![Certificate](mlCertificate.png)
